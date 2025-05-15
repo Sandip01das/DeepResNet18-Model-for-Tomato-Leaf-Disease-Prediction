@@ -76,39 +76,6 @@ Tomato crops are vulnerable to various leaf diseases such as **Bacterial Spot** 
 
 ---
 
-## 📊 Visual Results and Feature Maps
-
-### Class Distribution
-![Class Distribution](outputs/Class_distribution.png)
-
-### Training Accuracy and Loss
-![Training Accuracy and Loss](outputs/Loss.png)
-
-### Confusion Matrix
-![Confusion Matrix](outputs/Confusion_matrix.png)
-
-### Input Image
-![Input Image](outputs/Input.png)
-
-### Conv1 Feature Map
-![Conv1 Feature Map](outputs/Conv1.png)
-
-### Layer 1 Feature Map
-![Layer 1 Feature Map](outputs/Layer1.png)
-
-### Layer 2 Feature Map
-![Layer 2 Feature Map](outputs/Layer2.png)
-
-### Layer 3 Feature Map
-![Layer 3 Feature Map](outputs/Layer3.png)
-
-### Layer 4 Feature Map
-![Layer 4 Feature Map](outputs/Layer4.png)
-
-### Overall Accuracy Plot
-![Accuracy Plot](outputs/Accuracy.png)
-
----
 
 
 ## 🔬 Tools & Technologies
