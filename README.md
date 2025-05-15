@@ -86,10 +86,3 @@ Tomato crops are vulnerable to various leaf diseases such as **Bacterial Spot** 
 - scikit-learn
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tomato-leaf-disease.git
-   cd tomato-leaf-disease
